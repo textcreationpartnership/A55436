@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Popery banished with an account of their base cheats, especially, making the Word of God of no effect. And that their worship, although contrar to the Holy Scripture, they call best. January 17 1688[/]9. This may be printed. Rob, Midgley.</title>
+            <author>Midgley, Robert, 1655?-1723.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55436</idno>
+            <idno type="STC">Wing P2924</idno>
+            <idno type="STC">Wing M1995A_CANCELLED</idno>
+            <idno type="STC">ESTC R217815</idno>
+            <idno type="EEBO-CITATION">99829458</idno>
+            <idno type="PROQUEST">99829458</idno>
+            <idno type="VID">33898</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55436)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33898)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1920:03)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Popery banished with an account of their base cheats, especially, making the Word of God of no effect. And that their worship, although contrar to the Holy Scripture, they call best. January 17 1688[/]9. This may be printed. Rob, Midgley.</title>
+                  <author>Midgley, Robert, 1655?-1723.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Edinburgh re-printed :</pubPlace>
+                  <date>anno Dom. 1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Item identified on reel as M1995A; number cancelled in Wing 2nd ed.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33898:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 86 -->
+            <p>POPERY BANISHED, With An Account of their Baſe Cheats, eſpecially, making the Word of GOD of no Effect. And that their Worſhip, although contrar to the Holy Scripture, they call beſt.</p>
+            <p>
+               <hi>January</hi> 17 1688/9. This may be Printed.</p>
+            <p>
+               <hi>ROB. MIDGLEY.</hi>
+            </p>
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Re-printed Anno DOM. 1689.</p>
+            <pb facs="tcp:33898:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 87 -->
+            <pb facs="tcp:33898:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 87 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:33898:3"/>
+            <!-- PDF PAGE 88 -->
+            <pb n="3" facs="tcp:33898:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 88 -->
+            <head>
+               <hi>A TRUE</hi> Character of Popery.</head>
+            <p>WE do not find that God ever owned above two Religions in the World, the one of Ceremonies, the other without. The firſt di<g ref="char:EOLhyphen"/>ctated to <hi>Moſes</hi> by God himſelf; which tho it conſiſted of ſeveral peculi<g ref="char:EOLhyphen"/>ar Rites, Oblations and Ceremonies, yet was their Inſtitution grounded upon Reaſon, being either Remembrances of their Deliverances, or Types and Significations of the great Sacrifice which was to come, inſo<g ref="char:EOLhyphen"/>much that God did not require of the Jews to have any other Gods but him, but for a particular Reaſon.</p>
+            <p>The ſecond Religion was that which the coequal Son of God firſt taught in <hi>Judea,</hi> and commanded his Diſciples to ſpread over the World. A Religion plain and Simple, and, as I may ſay, without Welt or Guard, but ſo full of Truth and Sincerity, ſo full of vertuous precepts, all tend<g ref="char:EOLhyphen"/>ing to make Men happy both in this and the other Life, that it may tru<g ref="char:EOLhyphen"/>ly be ſaid to have deſcended from Heaven, and to have been the un<g ref="char:EOLhyphen"/>tainted Doctrine of a moſt perfect Deity. Now as no Government can ſubſiſt without Religion; we thought our ſelves the moſt happy people in the World, when once reform'd, not only to the proteſtant Religion, which is that which comes neareſt to the Rules of Sacred Inſtitution, but to the moſt refined Exerciſe of the proteſtant Religion, now practis'd in the World; Wherein there is neither Defect of Devotion, nor redundances of Superſtition, a Decency with Gravity, a Decorum avoid<g ref="char:EOLhyphen"/>ing the Moroſeneſs of a Clowniſh Behaviour to the Soveraign of Heaven. No Superſtitions aſſuming to its ſelf a Sanctity above others, but a piety and Charity grounded upon and warranted by Scripture, without which all Religion is but a ſeeming, and no true Religion.</p>
+            <p>For this Reaſon it was, that the Author of this enſuing paper, a perſon, of no leſs piety and Learning then Sarpneſs of Wit and Soundneſs of Judgment, wrote with ſuch an Abhorrence as he does of the popiſh Reli<g ref="char:EOLhyphen"/>gion, if it may deſerve to be call'd a Religion, as the Gentleman well ob<g ref="char:EOLhyphen"/>ſerves; and that he laboured to ſet it forth in its proper Colours, as if he had intended it as his laſt Legacy to this Nation, to ſhew how ruinous
+<pb n="4" facs="tcp:33898:4"/>
+               <!-- PDF PAGE 89 -->
+it would be to us, ſhould we be again compell'd to imbrace it; and with the Dog be conſtrained to return to our former Vomit: And as it were Prophetically to let us underſtand what a Deliverance GOD has been pleaſed to bleſs us withall, in ſo lately freeing the Kingdom from that In<g ref="char:EOLhyphen"/>undation of <hi>Antichriſtian</hi> Pomp and Vanity, and Cheats of Romiſh Super<g ref="char:EOLhyphen"/>ſtition, which was about to have overwhelmed it. 'Tis true, the touches are bold; but it is a Deſcription to the Life: And bold Stroaks in Paint<g ref="char:EOLhyphen"/>ing are many times more grateful to the Eye and Maſter like, than the ſmooth Touches of an effeminate Pencil. For which Reaſon it was thought expedient to abſtract theſe few Pages srom the reſt of the Treatiſe, and to hang them up in the Fac of the Nation, as the moſt lively Picture of the Senſuality, Vanity and Treachery of the Romiſh Profeſſion. The Words themſelves are theſe. In ſhort, ſays he, there is nothing comes nearer in Government to the Divine Perfection, then where the Mo<g ref="char:EOLhyphen"/>narch, as with us, enjoys a Capacity of doing all the Good imaginable to Mankind, under diſabilities to all that is evil.</p>
+            <p>And as we are thus happy in the Conſtitution of our State, ſo are we yet more bleſſed in that of our Church; being free from that <hi>Romiſh</hi> Yoak, which ſo great a part of Chriſtendom do yet draw and labour under. That Popery is ſuch a thing as cannot, but for want of a Word to expreſs it, be called a Religion: Nor is it to be mentioned with that Civility which is otherwiſe decent to be uſed, in ſpeaking of the Differences of Human Opinion about Divine Matters. Were it either open Judaiſm, or plain Turkery, or honeſt Paganiſm, there is yet a certain <hi>Bona Fides</hi> in the extravagant Belief, and Sincerity of an erroneous Profeſſion may render it more pardonable: But this is a Compound of all the Three, an extract of whatſoever is moſt Ridiculous and Impious in them, incorporated with more peculiar Abſurdities of its own, in which thoſe were deficient; and all this deliberately contrived, knowingly carried on by the bold Im<g ref="char:EOLhyphen"/>poſture of Prieſts, under the Name of Chriſtianity. The Wiſdom of this fifth Religion, this laſt and inſolenteſt Attempt upon the Credulity of Mankind ſeems to me (though not ignorant otherwiſe of Times, De<g ref="char:EOLhyphen"/>grees and Methods of its Progreſs) principally to have conſiſted in their owning the Scriptures to be the Word of God, and the Rule of Faith and Manners<g ref="char:punc">▪</g> but in prohibiting of the ſame their common Uſe, or the Reading of them in publick Churches, but in a <hi>Latin</hi> Tranſlation to the Vulgar: There being no better or more rational way to fruſtrate the very Deſign of the great Inſtitutor of Chriſtianity, who firſt planted it by the extraordinary Gift of Tongues, then to forbid the uſe even of the ordinary Languages. For having thus a Book, which is univerſally <gap reason="illegible" resp="#UOM" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>ed to be of Divine Authority, but ſequeſtring it only into ſuch
+<pb n="5" facs="tcp:33898:4"/>
+               <!-- PDF PAGE 89 -->
+Hands as were entruſted in the Cheat, they had the Opportunity to Viti<g ref="char:EOLhyphen"/>ate, Suppreſs or Interpret to their own profit thoſe Records by which the poor People hold their Salvation. And this neceſſary Point being once gained, there was thence forward nothing ſo monſtrous to Reaſon, ſo abhorring from Morality, or ſo contrary to Scripture which they might not in prudence adventure on The Idolatry (for alas it is neither bet<g ref="char:EOLhyphen"/>ter nor worſe) of Adoring and Praying to Saints and Angels, of Wor<g ref="char:EOLhyphen"/>ſhipping Pictures, Images and Relicts, incredible Miracles and palpable Fables to promot that Veneration. The whole Liturgy and Worſhip of the Bleſſed Virgin. The ſaying of <hi>Pater noſter's</hi> and Creeds, to the honour of Saints, and of <hi>Ave Mary</hi>'s too, not to her honour, but of others. The publick Service, which they can ſpare to GOD among ſo many Competitors, in an unknown Tongue; and intangled with ſuch Veſtments, Conſecrations, Exorciſms, Whiſperings, Sprinklings Cen<g ref="char:EOLhyphen"/>ſings and Phantaſtical Rites, Geſticulations, and Removals, ſo unbeſeem<g ref="char:EOLhyphen"/>ing a Chriſtian Office, that it repreſents rather the Pranks and Ceremonies of Juglers and Conjurers, the Refuſal of the Cup to the Laity. The Ne<g ref="char:EOLhyphen"/>ceſſity of the Prieſts Intention to make any of their Sacraments effectual: Debarring their Clergy from Marriage. Interdicting of Meats. Auri<g ref="char:EOLhyphen"/>culat Confeſſion and Abſolution, as with them practiſed. Penances, Pil<g ref="char:EOLhyphen"/>grimages, Purgatory and Prayer for the Dead. But above all their other Devices, that Tranſubſtantial <hi>Salaciſme,</hi> whereby that glorified Body, which at the ſame time they allow to be in Heaven, is Sold again, and Crucified daily upon all the Altars of their Communion. For GOD indeed may now and then do a Miracle, but a <hi>Romiſh Prieſt</hi> can, it ſeems work in one Moment a thouſand Impoſſibilities. Thus by a new and An<g ref="char:EOLhyphen"/>tiſcriptural Belief, compiled of Terrours to the Phanſie, Contradictions to Senſe, and Impoſitions on the Underſtanding, their Laity have turned Tenants for their Souls, and in Conſequence Tributary for their Eſtates to a more than Omnipotent Prieſthood.</p>
+            <p>I muſt indeed do them that Right to avow, That out of equitable Con<g ref="char:EOLhyphen"/>ſideration, and Recompenſe of ſo faithful a Slavery, they have diſcharged the People from all other Services and Dependance, infranchiſed them from all Duty to God or Man; inſomuch that their ſeverer and more learned Divines, their Governours of Conſcience, have ſo well inſtructed them in all the Arts of Circumventing their Neighbour, and of Collud<g ref="char:EOLhyphen"/>ing with Heaven; that were the Scholars as apt as their Teachers, there would have been long ſince an end of all either true Piety or common Honeſty; and nothing left among them but authorized Hypocriſie, Licen<g ref="char:EOLhyphen"/>tiouſneſs and Knavery; had not the natural Worth of the better ſort, and the good Simplicity of the Meaner, in great meaſure preſerved them.
+<pb n="4" facs="tcp:33898:5"/>
+               <!-- PDF PAGE 90 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:33898:5"/>
+               <!-- PDF PAGE 90 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:33898:6"/>
+               <!-- PDF PAGE 91 -->
+For nothing, indeed, but an extraordinary Temper and Ingenuity of. Spirit, and that too aſſiſted by a Diviner Influence, could poſſibly reſtrain thoſe within any the Terms or Laws of Humanity, who at the ſame time own the Doctrine of their Caſuits, or the Authority of the Pope, as it is by him claimed and exerciſed. He by his Indulgences delivers Souls out of the pains of the other World: So that who would refuſe to be vicious here, upon ſo good Security. He by his Diſpenſation annuls Contracts betwixt Man and Man, diſſolves Oaths between Princes, or betwixt them &amp; their People, and gives Allowance in Caſes which God and Nature pro<g ref="char:EOLhyphen"/>hibits. He, as Clerk of the Spiritual Marker, hath ſet a Rate upon all Crims: The more flagitious they are and abominable, the better Com<g ref="char:EOLhyphen"/>modities, and Men pay only an higher price as for greater Rarities. So that it ſeems as if the Commands of God had been invented meerly to erect an Office for the Pope; the worſe Chriſtians Men are, the better Cuſtomers: And this <hi>Rome</hi> does by the ſame policy People its Church, as the Pagan <hi>Rome</hi> did the City, by opening a Sanctuary to all Malefactors. And why not, if his power be indeed of ſuch Virtue and Extent, as is by him challenged? That he is the Ruler over Angels, Purgatory, and Hell. That his Tribunal and Gods are all one. That all that God, he can do, <hi>Clave non errante,</hi> and what he does is as GOD, and not as Man. That he is the Univerſal Head of the Church, the ſole Interpreter of Scripture, and Judge of Controverſie. That he is above General Councils. That his power is Abſolute, and his Decrees infallible. That he can change the very Nature of things, making what is Juſt to be Un<g ref="char:EOLhyphen"/>juſt, and what is Vice to Virtue. That all Laws are in the Cabinet of his Breaſt. That he can Diſpenſe with the New Teſtament to the great Injury of the Devils. That he is ſtill Monarch of the World, and that he can diſpoſe of Kingdoms and Empires as he pleaſes. Which things being granted, that Stile of <hi>Optimum, Maximum, &amp; Supremum Numen in Terris,</hi> or that of <hi>Dominus Deus noſter, Papa,</hi> was no ſuch ex<g ref="char:EOLhyphen"/>traordinary ſtroke of Courtſhip, as we reckoned: But it was rather a great clowniſhneſs in him that treated ſo mighty a Prince under the ſimple Title of <hi>Vice Deus.</hi> The Exerciſe of his Dominion is in all Points ſuit<g ref="char:EOLhyphen"/>able to this his pretence. He antiquates the Precepts of Chriſt, as things only of good Advice, not commanded: But makes it a Mortal Sin, even to doubt of any part of his own Religion, and demands, under pain of Damnation, the Subjection of all Chriſtians to his Papal Authority: The denying of two things ſo Reaſonable as blind Obedience to his power, and an Implicit Faith to his Doctrine, being the moſt unpardonable Crime under his diſpenſation. He has indeed of late been ſomewhat more re<g ref="char:EOLhyphen"/>tentive then formerly, as to his Faculty of diſpoſing of Kingdoms, the
+<pb n="7" facs="tcp:33898:6"/>
+               <!-- PDF PAGE 91 -->
+thing not having ſucceeded well with him in ſome Inſtances: But he lays the ſame claim ſtill, continues the ſame inclination, and though Vel<g ref="char:EOLhyphen"/>vet Headed hath the more Itch to the puſhing. And however in order to any occaſion he keeps himſelf in breath alwayes by cur<g ref="char:EOLhyphen"/>ſing one Prince or other upon every <hi>Munday, Thurſday:</hi> Nor is there any whether Prince or Nation, that Diſſents from his Uſurpations, but are marked out under the Notion of <hi>Hereticks</hi> to Ruine and Deſtruction, when<g ref="char:EOLhyphen"/>ſoever he ſhall give the Signal. That Word of <hi>Hereſie</hi> miſapplyed, hath ſerved him for ſo many Ages to juſtifie all the Executions, Aſſaſſinations, Warrs, Maſſacres and Devaſtations, whereby his Faith hath been propa<g ref="char:EOLhyphen"/>gated; of which our Times alſo have not wanted Examples, and more is to be expected for the future. For by how much any thing is more falſe and unreaſonable, it requires more cruelty to eſtabliſh it: And to intro<g ref="char:EOLhyphen"/>duce that which is abſurd, there muſt be ſomewhat done that is barbarous. But nothing of any Sect in Religion can be more recommended by all theſe Qualities then the Papacy. The Pagans are excuſable by their na<g ref="char:EOLhyphen"/>tural Darkneſs, without Revelation. The <hi>Jews</hi> are tolerable, who ſee not beyond the Old Teſtament. <hi>Mahomet</hi> was ſo honeſt as to own what he would be at, that he himſelf was the greateſt Prophet, and that his was a Religion of the Sword. So that theſe were all, as I may ſay, of another Allegience, and if Enemies, yet not Traytors: But the Pope avowing Chriſtianity by profeſſion, doth in Doctrine and practice re<g ref="char:EOLhyphen"/>nounce it: And preſuming to be the only Catholick, does perſecute thoſe to the Death, who dare worſhip the Author of their Religion, inſtead of his pretended Vicegerent.</p>
+            <p>And yet there is nothing more evident, notwithſtanding his moſt no<g ref="char:EOLhyphen"/>torious Forgeries, and Falſification of all Writters, than that the Pope was for ſeveral Hundred of Years an honeſt Biſhop, as other Men are, and never ſo much as dreamed upon the ſeven Hills, of that Univerſal power, which he is now come to, Nay, was the firſt that oppoſed any ſuch pre<g ref="char:EOLhyphen"/>tention. But ſome of them, at laſt, growing wiſer, by foiſting a coun<g ref="char:EOLhyphen"/>terfeit Donation of <hi>Conſtantine,</hi> and wreſting another Donation from our Saviour, advanced themſelves in a Weak, Ignorant and Credulous Age, to that Temporal and Spiritual principality that they are now ſeized of; <hi>Tu es Petrus, &amp; ſuper hanc Petram, aedificabo Eceleſiam meam:</hi> Never was a Biſhoprick and a Verſe of Scripture ſo improved by good Management, Thus, by exerciſing in the Quality of <hi>Chriſts Vicar,</hi> the publick Function, under an inviſible prince, the <hi>pope,</hi> like the Mayors of the palace, hath ſet his Maſter aſide, and delivered the Government over to a new Line of papal Succeſſion. But who can, unleſs wilfully, be ignorant what wretched Doings, what Bribery, what Ambition there are, how long the
+<pb n="8" facs="tcp:33898:7"/>
+               <!-- PDF PAGE 92 -->
+Church is without an Head, upon every Vacancy, till among the Crew of bandying Cardinals, the Holy Ghoſt hath declared for a Pope of the <hi>French</hi> or <hi>Spaniſh</hi> Faction. It is a Succeſſion like that of the <hi>Egyptian Ox</hi> (the living Idol of that Country) who dying, or being made away by the Prieſts; there was a ſolemn and general Mourning, for want of a Deity; until in their Conclave they had found out another Beaſt with the very ſame Marks as the former, whom they themſelves adored, and with great Jubilee brought forth to the people to Worſhip. Nor was that Election a groſſer Reproach to Human Reaſon than this is alſo to Chriſtianity. Surely it is the greateſt Miracle of the Romiſh Church, that it ſhould ſtill continue, and that in all the Time the Gates of Heaven ſhould not pre<g ref="char:EOLhyphen"/>vail againſt it.</p>
+            <p>It is almoſt unconceivable, how Princes can yet ſuffer a power ſo per<g ref="char:EOLhyphen"/>nicious, and Doctrine ſo deſtructive to all Government. That ſo great a part of the Land ſhould be alieniated and condemned too, as they call it, Pious Uſes. That ſuch millions of their People, as the Clergy, ſhould, by remaining unmarried, either fruſtrate Humane Nature, if they live chaſtly, or, if otherwiſe, adulterate it. That they ſhould be priviledged from all Labour, and publick ſervice; and exempt from the power of all Secular Juriſdiction. That they, being all bound by ſtrict Oaths and Vows of Obedience to the <hi>Pope,</hi> ſhould ev<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the fealty due to the Soveraign. Nay, that not only the Clergy but the whole People<g ref="char:punc">▪</g> if of the <hi>Romiſh perſwaſion,</hi> ſhould be obliged to rebel at any time upon the <hi>Popes</hi> pleaſure. And yet how many of the neighbouring Princes are con<g ref="char:EOLhyphen"/>tent, or do chuſe to reign upon thoſe Conditions, which being ſo diſho<g ref="char:EOLhyphen"/>nourable and dangerous, ſurely ſome great and more weighty Reaſon does cauſe them ſubmit. Whether it be out of perſonal Fear, having heard perhaps of ſeveral Attempts which the blind Obedience of <hi>Popiſh Zelotes</hi> hath executed againſt their Princes. Or, whether aiming at a more abſolute and tyrrannical Government, they think it ſtill to be the Caſe of <hi>Boniface</hi> and <hi>Phoe<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> (an uſurping Emperour, and an uſurping Biſhop) and that, as other Cheats, this alſo is beſt to be managed by Confederacy.</p>
+            <p>But, as far as I can apprehend, there is more of Sloth than Policy on the Princes ſide in this whole matter: And all that pretence of inſlaving Men, by the aſſiſtance of Religion more eaſily, is neither more nor leſs, than when the <hi>Braminie,</hi> by having the firſt night of the Bride, aſſures him<g ref="char:EOLhyphen"/>ſelf of her Devotion for the future, and makes her more fit for the Huſ<g ref="char:EOLhyphen"/>band.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:33898:7"/>
+            <!-- PDF PAGE 92 -->
+         </div>
+      </body>
+   </text>
+</TEI>
